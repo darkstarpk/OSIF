@@ -3,7 +3,7 @@
 
 $ pkg update upgrade
 $ pkg install git python2
-$ git clone https://github.com/ciku370/OSIF
+$ git clone https://github.com/darkstarpk/OSIF.git
 $ cd OSIF
 
 [ Setup ]
